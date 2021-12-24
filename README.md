@@ -1,5 +1,5 @@
 # Desafio sobre Git/GitHub da DIO
-Respositório criado para guardar todo o prograsso do bootcamp Amdocs JAVA Developer
+Repositório criado para guardar todo o progresso do bootcamp Amdocs JAVA Developer
 
 ## Links Úteis
 
